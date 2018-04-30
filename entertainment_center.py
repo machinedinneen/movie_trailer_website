@@ -1,7 +1,7 @@
 import media
 import fresh_tomatoes
 
-#create instances of different movies
+# create instances of different movies
 toy_story = media.Movie(
     "Toy Story",
     "story of boy and toys",
@@ -42,7 +42,7 @@ singstreet = media.Movie(
     "jpeg/220px-Sing_Street_poster.jpeg",
     "hhttps://www.youtube.com/watch?v=C_YqJ_aimkM")
 
-#add movies to a list
+# add movies to a list
 movies = [
     toy_story,
     avatar,
