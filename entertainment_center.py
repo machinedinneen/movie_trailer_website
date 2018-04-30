@@ -1,7 +1,7 @@
 import media
 import fresh_tomatoes
 
-#create instances of a different movies
+#create instances of different movies
 toy_story = media.Movie(
     "Toy Story",
     "story of boy and toys",
