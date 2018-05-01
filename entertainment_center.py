@@ -53,3 +53,4 @@ movies = [
 
 # pass list of movies to be displayed on webpage:
 fresh_tomatoes.open_movies_page(movies)
+
