@@ -3,7 +3,7 @@
 > Aron Dinneen
 
 ### About
-This is the first project from Udacity full stack course. The webpage displays movie pictures and when you click on it, a youtube trailer will popout and play.
+This is the first project from Udacity full stack course. This project opens a webpage that displays movie photos. Once the photos are clicked, a youtube popup of the trailer is displayed. 
 
 
 #### To run this program
