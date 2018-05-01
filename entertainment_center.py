@@ -11,8 +11,8 @@ toy_story = media.Movie(
 avatar = media.Movie(
     "Avatar",
     "Vierd blue people",
-    "https://cdn.movieweb.com/img.news.tops/NEF2TArJYNFmJL_1_a/Avatar-2-Sequels-"
-    "Underwater-Scenes-Motion-Capture.jpg",
+    "https://cdn.movieweb.com/img.news.tops/NEF2TArJYNFmJL_1_a/Avatar-"
+    "2-Sequels-Underwater-Scenes-Motion-Capture.jpg",
     "https://www.youtube.com/watch?v=6ziBFh3V1aM")
 
 anchorman = media.Movie(
@@ -24,8 +24,8 @@ anchorman = media.Movie(
 zoolander = media.Movie(
     "Zoolander",
     "A male fashion artist trying to stay ahead of the curve",
-    "https://ia.media-imdb.com/images/M/MV5BODI4NDY2NDM5M15BMl5BanBnXkFtZTgwNzEw"
-    "OTMxMDE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "https://ia.media-imdb.com/images/M/MV5BODI4NDY2NDM5M15BMl5BanBnXk"
+    "FtZTgwNzEwOTMxMDE@._V1_UX182_CR0,0,182,268_AL_.jpg",
     "https://www.youtube.com/watch?v=MaEeSJZYkpY")
 
 threehundred = media.Movie(
