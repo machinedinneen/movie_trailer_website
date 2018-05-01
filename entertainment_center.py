@@ -51,5 +51,5 @@ movies = [
     threehundred,
     singstreet]
 
-# pass list of movies to be displayed on webpage: 
+# pass list of movies to be displayed on webpage:
 fresh_tomatoes.open_movies_page(movies)
