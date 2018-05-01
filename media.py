@@ -1,10 +1,11 @@
 import webbrowser
 
+
 class Movie():
-    
+
     # static variable for available rating
     VALID_RATINGS = ["G", "PG", "PG-13", "R"]
-    
+
     # setting variables for movie definitions
     def __init__(self, movie_title, movie_storyline, poster_image,
                  trailer_youtube):
